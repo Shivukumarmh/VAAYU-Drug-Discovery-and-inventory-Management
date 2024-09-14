@@ -28,7 +28,7 @@ This project leverages **Generative AI** and **Machine Learning (ML)** to enhanc
 
 ### Getting Started
 
-To get started with this project, clone the repository and follow the setup instructions in the [Installation](#installation) section. For detailed guidance on using the generative AI model and demand forecasting tools, refer to the [Documentation](#documentation).
+To get started with this project, clone the repository and follow the setup instructions in the [Installation] section. For detailed guidance on using the generative AI model and demand forecasting tools, refer to the [Documentation].
 
 ### Installation
 
